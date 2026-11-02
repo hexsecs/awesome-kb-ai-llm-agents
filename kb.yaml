@@ -1,5 +1,6 @@
-openshelf: "0.1"
+openshelf: "1.4"
 id: awesome-kb-ai-llm-agents
+uid: 01a19d3e-896e-7574-9552-2b14463fbf0a
 title: "AI and LLM Agents (Awesome KB)"
 description: >
   Knowledge base for AI and LLM agents — frameworks, tools, protocols,
