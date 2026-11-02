@@ -6,7 +6,7 @@ https://hexsecs.github.io/awesome-kb/ once registered imports build.
 
 A living knowledge base for AI and LLM agents — frameworks, tools,
 protocols, evaluations, and research on autonomous and agentic systems —
-in the [OpenShelf](https://github.com/hexsecs/openshelf) format: a canon
+in the [OpenShelf](https://github.com/OpenNorms/openshelf) format: a canon
 awesome list feeds a wiki of researched pages, maintained jointly by
 bots and humans. Part of the [Awesome KB](https://github.com/hexsecs/awesome-kb)
 network.
